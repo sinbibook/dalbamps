@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-15T10:02:25.133202996Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-15T10:41:40.675246439Z",
     "templateType": "trip_g",
     "propertyId": "a2701cc3-2a64-47c8-87aa-e9afcf04b655",
     "homepageId": "01a0f77b-53c4-75c8-aaf0-4c93b6940f76"
@@ -142,24 +142,24 @@
         "displayOrder": 2,
         "images": [
           {
-            "id": "01a0f780-32a2-7f86-bc58-f5ebe6c8be11",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/02461197-e18c-4f8f-b134-9de8c56b797c/main/1790858768627-338itb6583.webp",
+            "id": "01a13f26-ff7d-7469-8413-bcc1abcc73c2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/02461197-e18c-4f8f-b134-9de8c56b797c/main/1792060882352-rn2dwovqai.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0f780-32af-764e-9244-0b4fcabf1201",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/02461197-e18c-4f8f-b134-9de8c56b797c/main/1790858768628-ehenpiwl41.webp",
+            "id": "01a13f27-001f-72b1-a1a6-87404392585e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/02461197-e18c-4f8f-b134-9de8c56b797c/main/1792060882358-5f13sqyrnj.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0f780-3250-7cbd-8ebf-2692ae807627",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/02461197-e18c-4f8f-b134-9de8c56b797c/main/1790858768629-d2or1x4x5w.webp",
+            "id": "01a13f26-ff3f-7608-b2b5-b5e6cf26e786",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/02461197-e18c-4f8f-b134-9de8c56b797c/main/1792060882360-mk5o603pyp.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
