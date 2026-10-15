@@ -363,7 +363,8 @@
     var fields = {
       '[data-footer-address]': this.firstText(prop.address, biz.businessAddress),
       '[data-footer-business-name]': biz.businessName,
-      '[data-footer-representative]': biz.representativeName,
+      // 대표자는 매핑하지 않는다 — common/footer.html 에 「맹민규」 고정 (요청 2026-10-15)
+      // '[data-footer-representative]': biz.representativeName,
       '[data-footer-business-number]': biz.businessNumber
     };
     Object.keys(fields).forEach(function (selector) {
