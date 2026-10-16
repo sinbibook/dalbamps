@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-10-15T10:48:45.845174302Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-10-16T02:09:31.370533958Z",
     "templateType": "trip_g",
     "propertyId": "a2701cc3-2a64-47c8-87aa-e9afcf04b655",
     "homepageId": "01a0f77b-53c4-75c8-aaf0-4c93b6940f76"
@@ -1257,74 +1257,6 @@
         }
       ],
       "displayOrder": 6
-    },
-    {
-      "id": "86e7573b-ee61-4d24-9914-c8932ac51ec0",
-      "name": "남성용 도마토리",
-      "description": "",
-      "roomInfo": "",
-      "usageGuide": "원룸형 : 이층침대2 + 화장실\r\n* 도미토리 객실 공용거실 사용\r\n* 전 객실 취사 및 금연",
-      "group": null,
-      "size": 23.14,
-      "baseOccupancy": 4,
-      "maxOccupancy": 4,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 0,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 0
-      },
-      "bedTypes": [
-        "더블 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 0,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "무료 WiFi",
-        "침대방",
-        "금연",
-        "에어컨",
-        "헤어드라이어"
-      ],
-      "roomViews": [ ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "inactive",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "N",
-        "barbecueState": "N"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 9
     }
   ],
   "homepage": {
@@ -1622,32 +1554,28 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453242-ejvlemmsic.webp",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0f77b-9129-7a25-91b5-0ed6bec673a0",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453394-hcicwbs1p4.webp",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0f77b-9015-7d7e-9af8-e6561010baee",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453513-ogbf7l2apw.webp",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0f77b-9063-74d6-80b3-7edd8826cfe1",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453572-4pmhbp8ked.webp",
                       "sortOrder": 3,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca",
@@ -1661,32 +1589,28 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453705-wu8wqibaqk.webp",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0f77b-9063-70cb-aa3a-7550bec77f62",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453889-wof3qg6gkw.webp",
                       "sortOrder": 5,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0f77b-9322-75ac-9e89-129ea04f1b92",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453242-ejvlemmsic.webp",
                       "sortOrder": 6,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0f77b-900e-7747-b598-c7bd684d6a95",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453989-1e7lrey0yd.webp",
                       "sortOrder": 7,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd",
@@ -1852,8 +1776,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454384-4h6tgmolow.webp",
                       "sortOrder": 0,
                       "description": "펜션에서 차량으로 약 11분, 7.9km",
-                      "isSelected": true,
-                      "blockId": "279bd3b8-3f4a-4105-8875-d10f72e7b9ba"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "279bd3b8-3f4a-4105-8875-d10f72e7b9ba",
@@ -1867,8 +1790,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454370-cyknh0icew.webp",
                       "sortOrder": 1,
                       "description": "펜션에서 차량으로 약 13분, 7.8km",
-                      "isSelected": true,
-                      "blockId": "847ebfa0-0b67-47d1-878f-cbcd995a4e64"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "847ebfa0-0b67-47d1-878f-cbcd995a4e64",
@@ -1882,8 +1804,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454575-jtvygm66ld.webp",
                       "sortOrder": 2,
                       "description": "펜션에서 차량으로 약 21분, 11.7km",
-                      "isSelected": true,
-                      "blockId": "f51ef548-3ff0-44e5-9b6f-f547c7a2880b"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "f51ef548-3ff0-44e5-9b6f-f547c7a2880b",
@@ -1897,8 +1818,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454758-vqq3l35z3i.webp",
                       "sortOrder": 3,
                       "description": "펜션에서 차량으로 약 21분, 15.3km",
-                      "isSelected": true,
-                      "blockId": "58e19292-01ca-46b9-9ff7-b7940814b1f9"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "58e19292-01ca-46b9-9ff7-b7940814b1f9",
@@ -1912,8 +1832,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454885-ajsmxeaqft.webp",
                       "sortOrder": 4,
                       "description": "펜션에서 차량으로 약 21분, 16.8km",
-                      "isSelected": true,
-                      "blockId": "68c5c144-c9d4-494e-8717-a25fa258ac87"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "68c5c144-c9d4-494e-8717-a25fa258ac87",
@@ -1927,8 +1846,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454882-jxbuonf9yi.webp",
                       "sortOrder": 5,
                       "description": "펜션에서 차량으로 약 25분, 13.3km",
-                      "isSelected": true,
-                      "blockId": "67cb2745-c517-41b9-9348-04de9d59a218"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "67cb2745-c517-41b9-9348-04de9d59a218",
@@ -1983,9 +1901,9 @@
       },
       "theme": {
         "font": {
+          "koMain": null,
           "koSub": null,
-          "enMain": null,
-          "koMain": null
+          "enMain": null
         },
         "color": null
       },
