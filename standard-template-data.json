@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-10-22T02:07:56.614270778Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-10-22T02:28:22.734833325Z",
     "templateType": "trip_g",
     "propertyId": "a2701cc3-2a64-47c8-87aa-e9afcf04b655",
     "homepageId": "01a0f77b-53c4-75c8-aaf0-4c93b6940f76"
@@ -12,7 +12,7 @@
     "nameEn": "Jeju Dalbam pension",
     "description": "달밤 펜션은 중문 시내와 인접해 있는 제주펜션 입니다. 깨끗한 시설과 최고의 서비스가 준비되어 있는 이곳에서 좋은 추억 만들어 가세요!",
     "subtitle": "",
-    "address": "제주특별자치도 서귀포시 예래로68번길 11-8 (상예동) 서귀포 달밤 펜션",
+    "address": "제주특별자치도 서귀포시 예래로68번길 11-8 (상예동) 제주 달밤 펜션",
     "latitude": 33.2552769565483,
     "longitude": 126.397823909544,
     "contactPhone": [
@@ -284,7 +284,7 @@
           {
             "id": "681ecf13-7fd1-4f34-9a4f-b7fa677115b7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/1M2RQp83AhFl.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -294,7 +294,7 @@
           {
             "id": "c3fd27ca-bf75-449b-9dfc-77a6a9e6d88d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/6AvKIhLfC5wN.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -302,7 +302,7 @@
           {
             "id": "5aff3083-175f-4a19-af9d-06d7cb6b7a2f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/rX8hNWgHKGs0.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -310,7 +310,7 @@
           {
             "id": "7556d7e1-643a-49b8-aaf6-ac7654fe48e5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/KpZQUoSRja6s.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -318,7 +318,7 @@
           {
             "id": "3aadd1a5-7a28-4d35-b393-8be8fab44fdd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/XjzKnyNg5x4D.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -326,7 +326,7 @@
           {
             "id": "5073d4cb-7e6c-44f0-8d02-7782c4594b11",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/So7gyxKTR9Qn.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +334,7 @@
           {
             "id": "1c4f958f-7c9e-4427-bced-237824a92047",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/J3FiUsn69QGB.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -342,7 +342,7 @@
           {
             "id": "5157be0c-73fe-48ea-84f5-6296fe4da8a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/2zQVSM7ZxGlq.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,7 +350,7 @@
           {
             "id": "c9e1deef-2491-49f1-aff9-0490c35a01a5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/vlAYpj4ZEkmI.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,7 +358,7 @@
           {
             "id": "6cc28861-aed8-4cdb-932f-d15c5ca3d501",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/MEQ4TGkDLKwH.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -366,7 +366,7 @@
           {
             "id": "4d982ef2-fe8d-417a-ae10-a3b0ddb476a2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/yKaroFtPVe1E.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -374,7 +374,7 @@
           {
             "id": "2801bc55-5ebf-4e09-8faa-b50851e25861",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/HvWTlK8Ffm06.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
