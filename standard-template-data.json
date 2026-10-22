@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-10-16T02:09:31.370533958Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-10-22T02:06:21.112541348Z",
     "templateType": "trip_g",
     "propertyId": "a2701cc3-2a64-47c8-87aa-e9afcf04b655",
     "homepageId": "01a0f77b-53c4-75c8-aaf0-4c93b6940f76"
@@ -227,6 +227,14 @@
     ],
     "refundPolicies": [
       {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      },
+      {
         "refundProcessingDays": 10,
         "refundRate": 100
       },
@@ -261,14 +269,6 @@
       {
         "refundProcessingDays": 2,
         "refundRate": 20
-      },
-      {
-        "refundProcessingDays": 1,
-        "refundRate": 10
-      },
-      {
-        "refundProcessingDays": 0,
-        "refundRate": 0
       }
     ],
     "refundSettings": {
@@ -284,7 +284,7 @@
           {
             "id": "681ecf13-7fd1-4f34-9a4f-b7fa677115b7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/1M2RQp83AhFl.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -294,7 +294,7 @@
           {
             "id": "c3fd27ca-bf75-449b-9dfc-77a6a9e6d88d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/6AvKIhLfC5wN.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -302,7 +302,7 @@
           {
             "id": "5aff3083-175f-4a19-af9d-06d7cb6b7a2f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/rX8hNWgHKGs0.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -310,7 +310,7 @@
           {
             "id": "7556d7e1-643a-49b8-aaf6-ac7654fe48e5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/KpZQUoSRja6s.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -318,7 +318,7 @@
           {
             "id": "3aadd1a5-7a28-4d35-b393-8be8fab44fdd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/XjzKnyNg5x4D.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -326,7 +326,7 @@
           {
             "id": "5073d4cb-7e6c-44f0-8d02-7782c4594b11",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/So7gyxKTR9Qn.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +334,7 @@
           {
             "id": "1c4f958f-7c9e-4427-bced-237824a92047",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/J3FiUsn69QGB.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -342,7 +342,7 @@
           {
             "id": "5157be0c-73fe-48ea-84f5-6296fe4da8a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/2zQVSM7ZxGlq.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,7 +350,7 @@
           {
             "id": "c9e1deef-2491-49f1-aff9-0490c35a01a5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/vlAYpj4ZEkmI.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,7 +358,7 @@
           {
             "id": "6cc28861-aed8-4cdb-932f-d15c5ca3d501",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/MEQ4TGkDLKwH.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -366,7 +366,7 @@
           {
             "id": "4d982ef2-fe8d-417a-ae10-a3b0ddb476a2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/yKaroFtPVe1E.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -374,7 +374,7 @@
           {
             "id": "2801bc55-5ebf-4e09-8faa-b50851e25861",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/12/09/HvWTlK8Ffm06.jpg",
-            "sortOrder": 10,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1554,28 +1554,32 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453242-ejvlemmsic.webp",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
                     },
                     {
                       "id": "01a0f77b-9129-7a25-91b5-0ed6bec673a0",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453394-hcicwbs1p4.webp",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
                     },
                     {
                       "id": "01a0f77b-9015-7d7e-9af8-e6561010baee",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453513-ogbf7l2apw.webp",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
                     },
                     {
                       "id": "01a0f77b-9063-74d6-80b3-7edd8826cfe1",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453572-4pmhbp8ked.webp",
                       "sortOrder": 3,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca"
                     }
                   ],
                   "blockId": "ed897391-f2ac-4d2b-a21f-0ec82d66adca",
@@ -1589,28 +1593,32 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453705-wu8wqibaqk.webp",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
                     },
                     {
                       "id": "01a0f77b-9063-70cb-aa3a-7550bec77f62",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453889-wof3qg6gkw.webp",
                       "sortOrder": 5,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
                     },
                     {
                       "id": "01a0f77b-9322-75ac-9e89-129ea04f1b92",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453242-ejvlemmsic.webp",
                       "sortOrder": 6,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
                     },
                     {
                       "id": "01a0f77b-900e-7747-b598-c7bd684d6a95",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/main_about/1790858453989-1e7lrey0yd.webp",
                       "sortOrder": 7,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd"
                     }
                   ],
                   "blockId": "7fc3f6ba-6ea8-488d-a424-63fb1e6782dd",
@@ -1776,7 +1784,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454384-4h6tgmolow.webp",
                       "sortOrder": 0,
                       "description": "펜션에서 차량으로 약 11분, 7.9km",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "279bd3b8-3f4a-4105-8875-d10f72e7b9ba"
                     }
                   ],
                   "blockId": "279bd3b8-3f4a-4105-8875-d10f72e7b9ba",
@@ -1790,7 +1799,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454370-cyknh0icew.webp",
                       "sortOrder": 1,
                       "description": "펜션에서 차량으로 약 13분, 7.8km",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "847ebfa0-0b67-47d1-878f-cbcd995a4e64"
                     }
                   ],
                   "blockId": "847ebfa0-0b67-47d1-878f-cbcd995a4e64",
@@ -1804,7 +1814,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454575-jtvygm66ld.webp",
                       "sortOrder": 2,
                       "description": "펜션에서 차량으로 약 21분, 11.7km",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "f51ef548-3ff0-44e5-9b6f-f547c7a2880b"
                     }
                   ],
                   "blockId": "f51ef548-3ff0-44e5-9b6f-f547c7a2880b",
@@ -1818,7 +1829,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454758-vqq3l35z3i.webp",
                       "sortOrder": 3,
                       "description": "펜션에서 차량으로 약 21분, 15.3km",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "58e19292-01ca-46b9-9ff7-b7940814b1f9"
                     }
                   ],
                   "blockId": "58e19292-01ca-46b9-9ff7-b7940814b1f9",
@@ -1832,7 +1844,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454885-ajsmxeaqft.webp",
                       "sortOrder": 4,
                       "description": "펜션에서 차량으로 약 21분, 16.8km",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "68c5c144-c9d4-494e-8717-a25fa258ac87"
                     }
                   ],
                   "blockId": "68c5c144-c9d4-494e-8717-a25fa258ac87",
@@ -1846,7 +1859,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0f77b-53c4-75c8-aaf0-4c93b6940f76/nearby_attractions_about/1790858454882-jxbuonf9yi.webp",
                       "sortOrder": 5,
                       "description": "펜션에서 차량으로 약 25분, 13.3km",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "67cb2745-c517-41b9-9348-04de9d59a218"
                     }
                   ],
                   "blockId": "67cb2745-c517-41b9-9348-04de9d59a218",
@@ -2884,7 +2898,10 @@
           "id": "86e7573b-ee61-4d24-9914-c8932ac51ec0",
           "images": [ ]
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
